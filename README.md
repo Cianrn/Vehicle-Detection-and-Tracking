@@ -4,8 +4,8 @@
 
 ## Introduction
 
-The objective of this project is to detect and track vehicles in real-time. By extracting image features and training a machine learning classifier, we can detect and subsequently track surrounding vehicles. The additional lane line detection process can be found [Here]('https://github.com/Cianrn/Advanced-Lane-Line-Detection-and-Tracking'). The steps to this project are as follows:
-
+The objective of this project is to detect and track vehicles in real-time. By extracting image features and training a machine learning classifier, we can detect and subsequently track surrounding vehicles. The additional lane line detection process can be found [Here](https://github.com/Cianrn/Advanced-Lane-Line-Detection-and-Tracking.git). The steps to this project are as follows: 
+ 
 * Feature extraction: Histogram of Oriented Gradients(HOG) and other features
 * Sliding window vehicle search 
 * Train Support Vector Machine (SVM) classifier
@@ -67,5 +67,5 @@ To fix this, we add heat (+1) to each pixel within the detected window as shown 
 ## Video Pipeline
 ***
 
-The results of our vehicle and lane detection and tracking is demonstrated [Here]('output_images/output2_detect.mp4'). We successfully identified and tracked vehicles and lane lines. Some limitations include the accurate size of our drawn boxes. They are not perfectly alligned with the vehicle which implies that the vehicle is smaller or bigger than it actually is. 
+The results of our vehicle and lane detection and tracking is demonstrated [Here]('https://github.com/Cianrn/Vehicle-Detection-and-Tracking/blob/master/output_images/output2_detect.mp4'). We successfully identified and tracked vehicles and lane lines. Some limitations include the accurate size of our drawn boxes. They are not perfectly alligned with the vehicle which implies that the vehicle is smaller or bigger than it actually is. 
 
