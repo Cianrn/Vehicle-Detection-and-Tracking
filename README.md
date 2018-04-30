@@ -67,5 +67,5 @@ To fix this, we add heat (+1) to each pixel within the detected window as shown 
 ## Video Pipeline
 ***
 
-The results of our vehicle and lane detection and tracking is demonstrated [Here]('https://github.com/Cianrn/Vehicle-Detection-and-Tracking/blob/master/output_images/output2_detect.mp4'). We successfully identified and tracked vehicles and lane lines. Some limitations include the accurate size of our drawn boxes. They are not perfectly alligned with the vehicle which implies that the vehicle is smaller or bigger than it actually is. 
+The results of our vehicle and lane detection and tracking is demonstrated [Here](https://github.com/Cianrn/Vehicle-Detection-and-Tracking/blob/master/output_images/output2_detect.mp4). We successfully identified and tracked vehicles and lane lines. Some limitations include the accurate size of our drawn boxes. They are not perfectly alligned with the vehicle which implies that the vehicle is smaller or bigger than it actually is. 
 
